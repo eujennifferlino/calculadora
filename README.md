@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+<h1 align="center">Calculadora de IMC</h1>
+<p align="center">Projeto de uma calculadora para Índice de Massa Corporal (IMC).</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## Sobre
+Esse projeto foi criado no intuito de estudar React.js e Hooks com useState para deixar a aplicação mais dinâmica.
 
-In the project directory, you can run:
 
-### `npm start`
+## Funcionalidades
+A principai funcionalidade do projeto é:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Responsivo somente para computador/notebook </br>
+✅ Faz o cálculo da sua massa corporal de forma efetiva
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Tecnologias
+* React
+* JavaScript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Serviços usados
+* GitHub
+* Vercel (hospedagem do site)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Imagem
+<p align="center">Tela de computador ou notebook:</p>
+<img src="https://user-images.githubusercontent.com/111028742/220443955-e6d2ff85-56b0-4ed0-b80e-c8a334c5d3fe.png" alt="layout em computadores">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Como usar
+Para usar, abra a página com o link do deploy para ser direcionado para a calculadora. Assim que abrir poderá digitar seu peso e a sua altura e por fim clicar em calcular para visualizar o resultado.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Pré requisitos
+Para abrir a calculadora, basta o uso de um navegador de sua preferência e conexão com a internet.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Links
+* Deploy: 
+* Repositório: https://github.com/eujennifferlino/calculadora
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Autora
+✨ Feito por Jenniffer Lino!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* eujennifferlino@gmail.com
+* <a href="https://www.linkedin.com/in/jennifferlinoferreira/" target=”_blank”>LinkedIn</a>
+* <a href="https://github.com/eujennifferlino" target=”_blank”>GitHub</a>
